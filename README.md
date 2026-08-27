@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=212&color=172BDE&text=Hello%20World&fontSize=29&fontAlign=50&fontAlignY=44&fontColor=A49FAA"
+    alt="Cabeçalho decorativo com ondas"
+  />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&pause=1000&color=2743F7&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+H%C3%A9lio+Enrique+Oliveira;estou+graduando+em+Information+Systems)](https://git.io/typing-svg)
 
 
